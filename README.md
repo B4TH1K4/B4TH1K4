@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="./images/github-banner.png" width="100%" alt="Thinuga Bathika - Software Engineer Banner">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Mobile+Developer" alt="Typing Animation" />
+</div>
 
 # Hi there, I'm Thinuga Bathika 👋
 
@@ -17,10 +17,6 @@
 [![Location](https://img.shields.io/badge/Galle%2C_Sri_Lanka-34A853?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Galle%2C+Sri+Lanka)
 
 </div>
-
-<p align="center">
-  <img src="./images/profile-avatar.png" width="180" alt="Thinuga Bathika" style="border-radius: 50%; border: 3px solid #00d4ff;">
-</p>
 
 ---
 
@@ -109,28 +105,6 @@ Building scalable web applications and cross-platform mobile apps using modern t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Core Practices:** Clean Architecture • OOP • RBAC • Secure Coding • Agile • REST APIs • UI/UX Principles
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/B4TH1K4">
-  <img src="https://github-readme-stats.vercel.app/api?username=B4TH1K4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/B4TH1K4">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4TH1K4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</a>
-
-<br/>
-
-<a href="https://github.com/B4TH1K4?tab=repositories">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B4TH1K4&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
 
 </div>
 
